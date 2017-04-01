@@ -1,0 +1,366 @@
+Jan 01	new year day
+Jan 02	the white fleets landfall
+Jan 03	day of genevieve
+Jan 04	the eleventh book
+Jan 05	the fifth day
+Jan 06	basalt day
+Jan 07	holly day
+Jan 08	granite day
+Jan 09	oak day
+Jan 10	quartz day
+Jan 11	cedar day
+Jan 12	first twelve
+Jan 13	first ocean
+Jan 14	day of the new world
+Jan 15	day of the lefthand
+Jan 16	day of dusk
+Jan 17	day of the gap
+Jan 18	day of the undertone
+Jan 19	the long hold
+Jan 20	the open book
+Jan 21	day of awaking
+Jan 22	day of speaking
+Jan 23	the last council
+Jan 24	second twelve
+Jan 25	second ocean
+Jan 26	the crescent heart
+Jan 27	day of hail
+Jan 28	day of drifts
+Jan 29	day of frost
+Jan 30	wolf day
+Jan 31	the lost island
+Feb 01	day of domain
+Feb 02	day of the voyage
+Feb 03	plains of paradise
+Feb 04	the laden bough
+Feb 05	third twelve
+Feb 06	third ocean
+Feb 07	the doubletake walk
+Feb 08	the white sun
+Feb 09	fourth ocean
+Feb 10	day of the ice
+Feb 11	fifth ocean
+Feb 12	first day of the cat
+Feb 13	the invading past
+Feb 14	day of valentine
+Feb 15	descent of the host
+Feb 16	the painted timbers
+Feb 17	fourth twelve
+Feb 18	day of verdun
+Feb 19	second
+Feb 20	third
+Feb 21	fourth
+Feb 22	fifth
+Feb 23	the white spheres
+Feb 24	the unrecovered ocean
+Feb 25	body of love
+Feb 26	the crippled vision
+Feb 27	broom day
+Feb 28	the unspoken vows
+Feb 29	fifth twelve
+Mar 01	day of bataan
+Mar 02	second
+Mar 03	third
+Mar 04	fourth
+Mar 05	fifth
+Mar 06	day of the mists
+Mar 07	day of the fronds
+Mar 08	day of the roots
+Mar 09	the high winds
+Mar 10	day of the lamb
+Mar 11	day of the rains
+Mar 12	the numb recall
+Mar 13	the silent guest
+Mar 14	day of diedric
+Mar 15	the whispering legions
+Mar 16	day of teutoberg forest
+Mar 17	day of the field
+Mar 18	day of the frontier
+Mar 19	day of the high road
+Mar 20	day of weyland
+Mar 21	day of vestiges
+Mar 22	day of genseric
+Mar 23	day of stilicho
+Mar 24	day of rurik
+Mar 25	day of swegde
+Mar 26	day of svava
+Mar 27	day of finn
+Mar 28	day of the swan
+Mar 29	day of heimdall
+Mar 30	day of the blue circle
+Mar 31	day of the everlasting moraine
+Apr 01	day of the marauders
+Apr 02	day of the holy mountain
+Apr 03	first day of the world tree
+Apr 04	second
+Apr 05	third
+Apr 06	fourth
+Apr 07	fifth
+Apr 08	sixth
+Apr 09	seventh
+Apr 10	eighth
+Apr 11	ninth
+Apr 12	day of sabas the goth
+Apr 13	day of hermenegild
+Apr 14	summer day
+Apr 15	day of yngve
+Apr 16	day of sigtun
+Apr 17	day of gotaland
+Apr 18	day of the bema
+Apr 19	day of toledo
+Apr 20	maelstrom
+Apr 21	day of the palisades
+Apr 22	day of the doldrums
+Apr 23	krakatoa day
+Apr 24	day of the gamelan
+Apr 25	day of niagra
+Apr 26	plaint of the host
+Apr 27	day of kalimantan
+Apr 28	day of sargasso
+Apr 29	the remnants of bela
+Apr 30	day of walpurgis night
+May 01	may day
+May 02	sixth ocean
+May 03	bridge of dread
+May 04	day of monica
+May 05	day of the ascendant
+May 06	the topaz glove
+May 07	day of morning
+May 08	day of the tower
+May 09	the quiet turf
+May 10	day of the zenith
+May 11	second
+May 12	third
+May 13	fourth
+May 14	fifth
+May 15	day of the stallion
+May 16	day of the hound
+May 17	day of the boar
+May 18	day of the okapi
+May 19	day of the impala
+May 20	day of the elk
+May 21	day of the lemur
+May 22	day of the whale
+May 23	day of the sparrow
+May 24	day of the wren
+May 25	day of the thrush
+May 26	day of the bird of paradise
+May 27	day of the spear
+May 28	day of john evangelist
+May 29	day of mistletoe
+May 30	day of the mushroom
+May 31	day of the birch
+Jun 01	day of the rose
+Jun 02	second
+Jun 03	third
+Jun 04	fourth
+Jun 05	fifth
+Jun 06	day of the cross
+Jun 07	day of the wand
+Jun 08	day of the gammadion
+Jun 09	day of columba
+Jun 10	day of the horns
+Jun 11	day of the hearts release
+Jun 12	day of origen
+Jun 13	day of the temple
+Jun 14	day of dew
+Jun 15	day of germaine
+Jun 16	day of the heavy sight
+Jun 17	day of light
+Jun 18	second
+Jun 19	third
+Jun 20	fourth
+Jun 21	fifth
+Jun 22	day of wages
+Jun 23	day of the harp
+Jun 24	day of the third angel
+Jun 25	day of the last beginning
+Jun 26	day of the destruction
+Jun 27	day of the grove
+Jun 28	day of the hearts blood
+Jun 29	day of the smoking plain
+Jun 30	foundation of the house
+Jul 01	second day of the cat
+Jul 02	day of the iron scepter
+Jul 03	dog days begin
+Jul 04	day of the eikon
+Jul 05	second
+Jul 06	third
+Jul 07	fourth
+Jul 08	fifth
+Jul 09	day of the outer range
+Jul 10	ladder of the west
+Jul 11	day of hellgate
+Jul 12	day of the chicago rose
+Jul 13	day of midsummer night
+Jul 14	midsummer day
+Jul 15	seventh ocean
+Jul 16	day of the two daughters
+Jul 17	day of kings
+Jul 18	day of babylon
+Jul 19	day of john baptist
+Jul 20	day of the five lost havens
+Jul 21	day of daniel
+Jul 22	day of suffering night
+Jul 23	day of all hawks
+Jul 24	day of the high lists
+Jul 25	day of the beachhead
+Jul 26	diedricsday
+Jul 27	day of veronica
+Jul 28	day of guthlake
+Jul 29	eighth ocean
+Jul 30	day of the millstone
+Jul 31	day of the millrace
+Aug 01	day of ameirgin
+Aug 02	day of the sickness
+Aug 03	day of jerusalem
+Aug 04	day of fir gale
+Aug 05	the shouts from the sea
+Aug 06	the ironkeeled pentecost
+Aug 07	day of the mantle
+Aug 08	the moving hand
+Aug 09	day of adrianople
+Aug 10	day of the high happening
+Aug 11	dog days end
+Aug 12	day of moses
+Aug 13	ninth ocean
+Aug 14	the three faces
+Aug 15	day of the antler
+Aug 16	day of the sledge
+Aug 17	day of the high cities
+Aug 18	day of the great routes
+Aug 19	the ural delta
+Aug 20	the mississippi delta
+Aug 21	source of the danube
+Aug 22	the nile delta
+Aug 23	the volga delta
+Aug 24	the deserted garden
+Aug 25	the brother heart
+Aug 26	day of the north sea
+Aug 27	day of the iron gate
+Aug 28	day of augustine
+Aug 29	day of conle
+Aug 30	day of the western isles
+Aug 31	first day of quest
+Sep 01	second
+Sep 02	third
+Sep 03	fourth
+Sep 04	fifth
+Sep 05	sixth
+Sep 06	seventh
+Sep 07	eighth
+Sep 08	ninth
+Sep 09	tenth
+Sep 10	eleventh
+Sep 11	twelfth
+Sep 12	thirteenth
+Sep 13	fourteenth
+Sep 14	fifteenth
+Sep 15	sixteenth
+Sep 16	seventeenth
+Sep 17	eighteenth
+Sep 18	nineteenth
+Sep 19	twentieth
+Sep 20	twenty first
+Sep 21	twenty second
+Sep 22	twenty third
+Sep 23	twenty fourth
+Sep 24	twenty fifth
+Sep 25	last day of quest
+Sep 26	last day of the western isles
+Sep 27	the breathing hills
+Sep 28	day of wenceslas
+Sep 29	the clear streams
+Sep 30	day of trismegistos
+Oct 01	day of the mantis
+Oct 02	release from dawn
+Oct 03	day of the invisible facade
+Oct 04	summer drum
+Oct 05	conflict of the hosts
+Oct 06	day of the legendary duress
+Oct 07	the channel of distance
+Oct 08	day of nagasaki
+Oct 09	day of the blood sun
+Oct 10	the lines displayed
+Oct 11	under the rose
+Oct 12	the final knowledge
+Oct 13	tenth ocean
+Oct 14	winter day
+Oct 15	day of the hammer
+Oct 16	second
+Oct 17	third
+Oct 18	fourth
+Oct 19	fifth
+Oct 20	day of the autumn feast
+Oct 21	day of the egret
+Oct 22	day of the fall
+Oct 23	day of the bruise
+Oct 24	last day of the autumn feast
+Oct 25	call of the swan
+Oct 26	day of the arcane light
+Oct 27	the long sleep
+Oct 28	eleventh ocean
+Oct 29	all hunters
+Oct 30	all battles
+Oct 31	all prophets
+Nov 01	all hallows
+Nov 02	all souls
+Nov 03	day of the five riders
+Nov 04	smith dynasty
+Nov 05	frozen reeds
+Nov 06	rose of sharon
+Nov 07	anaconda
+Nov 08	owl
+Nov 09	day of the iron crown
+Nov 10	the red hand
+Nov 11	the wander stones
+Nov 12	ascendant eye
+Nov 13	day of the given
+Nov 14	the subtle cabinet
+Nov 15	day of the mounds
+Nov 16	joyous gard
+Nov 17	day of the cliff
+Nov 18	day of slack reins
+Nov 19	the night crescent
+Nov 20	the trumpet lung
+Nov 21	the rusted machines
+Nov 22	third day of the cat
+Nov 23	day of the axe
+Nov 24	wild sun
+Nov 25	blackclotted corridor
+Nov 26	approaches
+Nov 27	tempest birth
+Nov 28	the overday
+Nov 29	day of the still boulder
+Nov 30	winter drum
+Dec 01	the living help
+Dec 02	day of the waste arena
+Dec 03	high paralysis
+Dec 04	the hundred lights
+Dec 05	day of barbara
+Dec 06	day of nicholas
+Dec 07	day of the banner
+Dec 08	day of ursula
+Dec 09	day of the sybil
+Dec 10	day of the unquiet grave
+Dec 11	smoke of the shore
+Dec 12	day of the inner lid
+Dec 13	day of the magic child
+Dec 14	day of bessie smith
+Dec 15	day of anna
+Dec 16	rose over the cities
+Dec 17	the fire is a mirror
+Dec 18	hrungirs heart
+Dec 19	day of the white glare
+Dec 20	twelfth ocean
+Dec 21	day of midwinter night
+Dec 22	first day of yule
+Dec 23	second
+Dec 24	third
+Dec 25	fourth
+Dec 26	fifth
+Dec 27	sixth
+Dec 28	seventh
+Dec 29	eighth
+Dec 30	ninth
+Dec 31	day of hogmanay
